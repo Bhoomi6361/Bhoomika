@@ -1,0 +1,6 @@
+{
+  "name": "Darukaa.Earth — AI Biodiversity Intelligence",
+  "description": "Knowledge-grounded environmental scientist platform reasoning across soil, water, climate, land-use, and biodiversity metrics with evidence-backed recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
